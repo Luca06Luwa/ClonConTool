@@ -4,9 +4,8 @@
 
 A GUI tool for windows designed for generating .sng files from Clone Hero's .chart files.
 
-Credits:
-- SngFileFormat by mdsitton (creator of the format)
-- Pro Swapper by Kaito/KyeOnDiscord (helped figure out some file pointing and API shit)
-- 
+Credits: (if not listed here then copyright is either in the code or I wrote it myself)
+- SngFileFormat by mdsitton (creator of the format and what I'm basing the codebase off of.)
+- Some other projects that were open source
 
 (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
